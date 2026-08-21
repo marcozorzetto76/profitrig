@@ -1,2 +1,6 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://marcozorzetto76.github.io/profitrig/sitemap.xml
+User-agent: *
+Allow: /
